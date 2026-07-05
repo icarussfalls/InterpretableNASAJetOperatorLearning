@@ -1,7 +1,4 @@
 # InterpretableNASAOperatorLearning
 Dissertation Project on Multimodal SPOD Reconstruction of NASA SHJAR Jet
 
-<video src="https://github.com/user-attachments/assets/af0ac18c-b37b-4cdc-acd4-2616498ce2f3" width="100%" controls autoplay loop muted>
-  Your browser does not support the video tag.
-</video>
-
+<img width="800" height="666" alt="chapter5_source_and_rms_evolution-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/70382377-93d0-4444-a670-d2f341dc0037" />
