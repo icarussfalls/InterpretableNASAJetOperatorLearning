@@ -1,4 +1,9 @@
 # InterpretableNASAOperatorLearning
-Dissertation Project on Multimodal SPOD Reconstruction of NASA SHJAR Jet
+Probabilistic Neural Operator for Reduced Order Modelling of Turbulent Flows
+Applied to NASA SHJAR SP7 Transonic Jet
+Stability-preserving Generative FNO with explicit derivation of ROM inside the architecture
 
-<img width="800" height="666" alt="chapter5_source_and_rms_evolution-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/70382377-93d0-4444-a670-d2f341dc0037" />
+
+https://github.com/user-attachments/assets/ab4ec3eb-47f3-4fb0-9da2-9ee7a7828c71
+
+
